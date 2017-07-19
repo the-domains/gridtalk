@@ -1,0 +1,67 @@
+typography_spectrum: 0.01604961882114853
+color:
+  brandStrength: 0.9927059352712355
+  lightness: 0.7463750646192359
+  saturation: 0.337039477629126
+  rhythmicContrast: 0.0320005448311014
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+layout_spectrum: 0.07299682829409175
+author:
+  name: GridTalk
+  url: 'http://gridtalk.info/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d391274-737d-49d1-8c7e-5584e585ff65.png
+name: GridTalk
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Featured Sites
+    id: 3f6d2737-9d79-44fb-b819-0a0684e6d289
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b7e7ca0-8a8c-4a4b-937f-ffec989acf47.png
+title: ''
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c60afea-1fa9-45df-b48b-c2e986c25573.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c60afea-1fa9-45df-b48b-c2e986c25573.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Community Forum for Users of The Grid AI
+purpose:
+  - type: external
+    url: 'https://www.teepublic.com/user/gridtalk'
+    label: Support The Forum
+  - type: external
+    url: 'http://gridtalk.info/'
+    label: Join The Forum
+github: true
