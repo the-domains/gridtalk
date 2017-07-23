@@ -44,8 +44,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/thread/257/gallery-comments'
 title: Gallery and comments.. | GridTalk
-datePublished: '2017-07-23T14:47:25.771Z'
-dateModified: '2017-07-23T14:47:25.317Z'
+datePublished: '2017-07-23T14:48:50.021Z'
+dateModified: '2017-07-23T14:48:49.596Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-18-gallery-and-comments-or-gridtalk.md
@@ -55,4 +55,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Gallery and comments.. | GridTalk</h1><p>Ok this site is a mockup.. set up for @katydid https://thegrid.ai/mygallery The first post is basically 10 images one after another.. nothing else.. just 10 images.. you can edit the images</p><img src="https://storage.proboards.com/6362750/images/JNVGXpFYphrKNmxaXDAP.png" /></article>
+<article style=""><h1>Gallery and comments.. | GridTalk</h1><p>Ok this site is a mockup.. set up for @katydid https://thegrid.ai/mygallery The first post is basically 10 images one after another.. nothing else.. just 10 images.. you can edit the images</p></article>
