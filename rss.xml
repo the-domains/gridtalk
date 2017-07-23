@@ -4,9 +4,9 @@
         <description><![CDATA[GridTalk]]></description>
         <link>https://thegrid.ai/gridtalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 23 Jul 2017 16:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2017 16:02:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridtalk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Jul 2017 16:01:32 GMT</pubDate>
+        <pubDate>Sun, 23 Jul 2017 16:02:48 GMT</pubDate>
         <item>
             <title><![CDATA[Welcome! | GridTalk]]></title>
             <description><![CDATA[<article><h1>Welcome! | GridTalk</h1><p>This forum was created to help users and discuss the Grid Platform! What we do is try to answer any questions you might have regarding the platform. As a community we try to work around any</p></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://gridtalk.info/thread/253/issue-2</link>
             <guid isPermaLink="false">77359f8c-6acd-42e7-811c-02c4c2ebf999</guid>
             <pubDate>Tue, 18 Jul 2017 13:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Featured Sites:]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7962c29a-1c86-4c97-b6da-ff16fe5ffcc6.png" title="Featured Sites:" alt="Grid sites we like!">]]></description>
+            <link>https://thegrid.ai/gridtalk/into-the-world-stories</link>
+            <guid isPermaLink="false">552c25ab-49aa-475c-a801-c9b043d9d0ac</guid>
+            <pubDate>Sun, 23 Jul 2017 16:00:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gallery and comments.. | GridTalk]]></title>
@@ -62,13 +69,6 @@
             <link>http://gridtalk.info/</link>
             <guid isPermaLink="false">69f13298-4129-40a8-ae74-5c61f1ac125c</guid>
             <pubDate>Thu, 06 Jul 2017 19:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Featured Sites:]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7962c29a-1c86-4c97-b6da-ff16fe5ffcc6.png" title="Featured Sites:" alt="Grid sites we like!">]]></description>
-            <link>https://thegrid.ai/gridtalk/into-the-world-stories</link>
-            <guid isPermaLink="false">552c25ab-49aa-475c-a801-c9b043d9d0ac</guid>
-            <pubDate>Sun, 23 Jul 2017 16:00:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
