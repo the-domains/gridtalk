@@ -37,8 +37,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/'
 title: ''
-datePublished: '2017-07-23T14:47:25.749Z'
-dateModified: '2017-07-23T14:47:25.317Z'
+datePublished: '2017-07-23T16:02:43.002Z'
+dateModified: '2017-07-23T16:02:42.346Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-06-home-or-gridtalk.md
