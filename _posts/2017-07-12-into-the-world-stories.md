@@ -1,12 +1,12 @@
 ---
 app_links: []
-datePublished: '2017-07-23T15:58:09.866Z'
+datePublished: '2017-07-23T15:58:22.589Z'
 description: ———
 via: {}
 keywords: []
-inFeed: true
+inFeed: false
 publisher: {}
-dateModified: '2017-07-23T15:58:09.395Z'
+dateModified: '2017-07-23T15:58:22.131Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
 title: 'Featured Sites:'
