@@ -1,15 +1,15 @@
 ---
 app_links: []
-datePublished: '2017-07-23T14:47:25.669Z'
+datePublished: '2017-07-23T15:44:30.933Z'
 description: 'Featured Sites:'
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-07-23T14:47:25.317Z'
+dateModified: '2017-07-23T15:43:15.675Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
-title: 'Grafički i Web Dizajn, Internet oglašavanje'
+title: Jon Adaskin
 hasPage: true
 author: []
 starred: false
@@ -21,7 +21,9 @@ _type: MediaObject
 ---
 Featured Sites:
 
-<article style=""><h1>Grafički i Web Dizajn, Internet oglašavanje</h1><p>Već odavno ne znate što vam je logotip. Imate bezbroj verzija i svaki je različit. Vizitke vam dizajniraju kako tko stigne a vaši djelatnici imaju ih sve različite. Vrijeme je da to sve standardizirate i definirate u Knjizi Grafičkih Standarda.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c5ddb5c853d744b1534f2966feb91893/croprotate.jpg?cropheight=2831&amp;cropwidth=4256&amp;degrees=0&amp;input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2a493481-1e5c-4450-9887-0bb51a0d8847.jpg&amp;x=0&amp;y=0" /></article>
+<article style=""><h1>Jon Adaskin</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d393d158a4b80dc955597e596a6871b54e484b45.jpg" /></article>
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2230648adcee83c149f7a78fb171caf66e4238c6.jpg" /><h1>Grafički i Web Dizajn, Internet oglašavanje</h1><p>Već odavno ne znate što vam je logotip. Imate bezbroj verzija i svaki je različit. Vizitke vam dizajniraju kako tko stigne a vaši djelatnici imaju ih sve različite. Vrijeme je da to sve standardizirate i definirate u Knjizi Grafičkih Standarda.</p></article>
 
 ---------
 
