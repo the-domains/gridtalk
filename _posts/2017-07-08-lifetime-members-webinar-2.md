@@ -35,8 +35,8 @@ title: 'LifeTime Members webinar #2 '
 app_links: []
 isBasedOnUrl: >-
   https://www.facebook.com/events/246083359219257/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A483440371846159%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A483440371846159%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D
-datePublished: '2017-07-23T16:02:43.003Z'
-dateModified: '2017-07-23T16:02:42.346Z'
+datePublished: '2017-07-23T16:11:14.704Z'
+dateModified: '2017-07-23T16:11:14.361Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-08-lifetime-members-webinar-2.md
