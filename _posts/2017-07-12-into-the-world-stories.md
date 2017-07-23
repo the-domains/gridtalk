@@ -1,6 +1,6 @@
 ---
 app_links: []
-datePublished: '2017-07-23T15:52:18.258Z'
+datePublished: '2017-07-23T15:52:19.499Z'
 description: >-
   I’ve been working in photography for 25+ years. As a boy I would go out
   photographing with my father who was a painter. He would use the photographs
@@ -12,7 +12,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-07-23T15:52:17.674Z'
+dateModified: '2017-07-23T15:52:18.491Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
 title: 'Featured Sites:'
