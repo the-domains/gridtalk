@@ -1,12 +1,12 @@
 ---
 app_links: []
-datePublished: '2017-07-23T15:44:30.933Z'
+datePublished: '2017-07-23T15:46:20.539Z'
 description: 'Featured Sites:'
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-07-23T15:43:15.675Z'
+dateModified: '2017-07-23T15:46:19.817Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
 title: Jon Adaskin
@@ -21,7 +21,9 @@ _type: MediaObject
 ---
 Featured Sites:
 
-<article style=""><h1>Jon Adaskin</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d393d158a4b80dc955597e596a6871b54e484b45.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d393d158a4b80dc955597e596a6871b54e484b45.jpg" /><h1>Jon Adaskin</h1></article>
+
+---------
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2230648adcee83c149f7a78fb171caf66e4238c6.jpg" /><h1>Grafički i Web Dizajn, Internet oglašavanje</h1><p>Već odavno ne znate što vam je logotip. Imate bezbroj verzija i svaki je različit. Vizitke vam dizajniraju kako tko stigne a vaši djelatnici imaju ih sve različite. Vrijeme je da to sve standardizirate i definirate u Knjizi Grafičkih Standarda.</p></article>
 
