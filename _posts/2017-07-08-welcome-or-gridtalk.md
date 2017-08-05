@@ -44,8 +44,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/thread/241/welcome'
 title: Welcome! | GridTalk
-datePublished: '2017-08-05T16:34:38.931Z'
-dateModified: '2017-08-05T16:34:37.720Z'
+datePublished: '2017-08-05T16:37:21.222Z'
+dateModified: '2017-08-05T16:37:20.963Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-08-welcome-or-gridtalk.md
