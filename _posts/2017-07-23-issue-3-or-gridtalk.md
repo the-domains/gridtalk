@@ -44,8 +44,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/thread/261/issue-3'
 title: 'Issue #3 | GridTalk'
-datePublished: '2017-08-05T16:34:38.906Z'
-dateModified: '2017-08-05T16:34:37.720Z'
+datePublished: '2017-08-05T16:37:21.222Z'
+dateModified: '2017-08-05T16:37:20.963Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-23-issue-3-or-gridtalk.md
