@@ -37,8 +37,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/post/1947'
 title: ''
-datePublished: '2017-07-23T16:11:14.716Z'
-dateModified: '2017-07-23T16:11:14.361Z'
+datePublished: '2017-08-05T16:34:38.925Z'
+dateModified: '2017-08-05T16:34:37.720Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-06-grid-bear-tees-or-gridtalk.md
