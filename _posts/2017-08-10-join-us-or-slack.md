@@ -12,13 +12,13 @@ app_links: []
 isBasedOnUrl: >-
   https://join.slack.com/t/gridtalkinfo/shared_invite/MjE3Nzc2NTU1MzY3LTE1MDA4ODg4NjAtMjlmOTZlZjc3NQ
 title: Join Us | Slack
-datePublished: '2017-08-10T20:33:28.858Z'
-dateModified: '2017-08-10T20:33:15.928Z'
+datePublished: '2017-08-10T20:34:01.797Z'
+dateModified: '2017-08-10T20:34:01.292Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-08-10-join-us-or-slack.md
 starred: false
 datePublishedOriginal: '2017-08-10T20:33:28.858Z'
-sourcePath: _posts/2017-08-10-join-us-or-slack.md
 _context: 'http://schema.org'
 _type: MediaObject
 
