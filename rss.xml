@@ -4,9 +4,9 @@
         <description><![CDATA[GridTalk]]></description>
         <link>https://thegrid.ai/gridtalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Aug 2017 20:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2017 20:34:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridtalk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Aug 2017 20:33:29 GMT</pubDate>
+        <pubDate>Thu, 10 Aug 2017 20:34:08 GMT</pubDate>
         <item>
             <title><![CDATA[Welcome! | GridTalk]]></title>
             <description><![CDATA[<article><h1>Welcome! | GridTalk</h1><p>This forum was created to help users and discuss the Grid Platform! What we do is try to answer any questions you might have regarding the platform. As a community we try to work around any</p></article>]]></description>
@@ -27,6 +27,13 @@
             <link>http://gridtalk.info/post/2141</link>
             <guid isPermaLink="false">c274cd8d-e5f8-45c9-8eb8-1638d20a22e0</guid>
             <pubDate>Thu, 10 Aug 2017 20:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Join Us | Slack]]></title>
+            <description><![CDATA[<article><h1>Join Us | Slack</h1></article>]]></description>
+            <link>https://join.slack.com/t/gridtalkinfo/shared_invite/MjE3Nzc2NTU1MzY3LTE1MDA4ODg4NjAtMjlmOTZlZjc3NQ</link>
+            <guid isPermaLink="false">c99ca69b-b27c-4de8-8c8d-59534b130557</guid>
+            <pubDate>Thu, 10 Aug 2017 20:33:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Issue #5 | GridTalk]]></title>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/gridtalk/gridtalk-1/index.html</link>
             <guid isPermaLink="false">6e8e693b-9ead-41f3-b8d6-682ee28317aa</guid>
             <pubDate>Sun, 09 Jul 2017 20:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Issue #1 | GridTalk]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebb538da-3699-406e-b58c-b8d474d82e05.png">,<article><h1>Issue #1 | GridTalk</h1><p>Check your inbox.. Issue #1 is now out.. in summary : Hey all, The internet is the most amazing invention of our lifetime, but building your digital presence isn&apos;t easy. That&apos;s why we created the</p></article>]]></description>
-            <link>http://gridtalk.info/post/1944</link>
-            <guid isPermaLink="false">c60a44e9-e4d8-467c-83d4-b1b0ec28f602</guid>
-            <pubDate>Thu, 06 Jul 2017 19:53:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
