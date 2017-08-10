@@ -1,16 +1,16 @@
-typography_spectrum: 0.01604961882114853
+layout_spectrum: 0.4446435223873889
+typography_spectrum: 0.019574450328853903
 color:
-  brandStrength: 0.9927059352712355
-  lightness: 0.7463750646192359
-  saturation: 0.337039477629126
-  rhythmicContrast: 0.0320005448311014
+  brandStrength: 0.8475531334288897
+  lightness: 0.749055631299789
+  saturation: 0.3316522954176595
+  rhythmicContrast: 0.039860608556151096
   brandColors:
     - '#DDDCC5'
     - '#958976'
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
-layout_spectrum: 0.07299682829409175
 author:
   name: GridTalk
   url: 'http://gridtalk.info/'
