@@ -4,9 +4,9 @@
         <description><![CDATA[GridTalk]]></description>
         <link>https://thegrid.ai/gridtalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Aug 2017 20:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2017 20:08:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridtalk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Aug 2017 20:06:59 GMT</pubDate>
+        <pubDate>Thu, 10 Aug 2017 20:08:28 GMT</pubDate>
         <item>
             <title><![CDATA[Welcome! | GridTalk]]></title>
             <description><![CDATA[<article><h1>Welcome! | GridTalk</h1><p>This forum was created to help users and discuss the Grid Platform! What we do is try to answer any questions you might have regarding the platform. As a community we try to work around any</p></article>]]></description>
@@ -27,6 +27,13 @@
             <link>http://gridtalk.info/thread/272/issue-5</link>
             <guid isPermaLink="false">c0423366-948f-46c9-8490-a87501fa67ac</guid>
             <pubDate>Sat, 05 Aug 2017 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Issue #6 | GridTalk]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1561771-3e84-4bb5-acc4-0717c54d6cd5.png">,<article><h1>Issue #6 | GridTalk</h1><p>Hey all, We hope you&apos;re having a great week, and to make it even better, we&apos;ve packed a bunch of delightful goods for you this week. For starters, feast your eyes on aesthetically designed</p></article>]]></description>
+            <link>http://gridtalk.info/post/2141</link>
+            <guid isPermaLink="false">c274cd8d-e5f8-45c9-8eb8-1638d20a22e0</guid>
+            <pubDate>Thu, 10 Aug 2017 20:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lifetime Members Webinar #3]]></title>
@@ -69,13 +76,6 @@
             <link>http://gridtalk.info/post/1944</link>
             <guid isPermaLink="false">c60a44e9-e4d8-467c-83d4-b1b0ec28f602</guid>
             <pubDate>Thu, 06 Jul 2017 19:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LifeTime Members webinar #2 ]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/db7caee1df3ace5b9d0b852d472cc81a/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-0%2Fs526x296%2F19756531_673699612820233_3965856728624954956_n.jpg%3Foh%3Dd3c5ed3666fff0595503052ea03b741c%26oe%3D59D081A6" title="LifeTime Members webinar #2 " alt="Monday, July 17 at 12 PM - 1 PM PDT">]]></description>
-            <link>https://www.facebook.com/events/246083359219257/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A483440371846159%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A483440371846159%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D</link>
-            <guid isPermaLink="false">c04bc763-23a3-46dc-9573-1d1914f95274</guid>
-            <pubDate>Sat, 08 Jul 2017 15:38:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
