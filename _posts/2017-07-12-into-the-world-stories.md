@@ -1,17 +1,12 @@
 ---
 app_links: []
-datePublished: '2017-08-20T16:02:07.083Z'
+datePublished: '2017-08-20T16:03:28.615Z'
 description: ———
 via: {}
 keywords: []
 inFeed: false
-publisher:
-  url: 'http://goati.info'
-  name: Goati
-  favicon: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d692ae-ff4b-41f6-a982-f831247e75e0.png
-  domain: goati.info
-dateModified: '2017-08-20T16:02:06.488Z'
+publisher: {}
+dateModified: '2017-08-20T16:03:28.111Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
 title: 'Featured Sites:'
@@ -25,8 +20,6 @@ _type: MediaObject
 
 ---
 # Featured Sites:
-
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9c9e2477f7427d2b77ecb413aa4dff00/noop.jpg?input=https%3A%2F%2Fimg0.etsystatic.com%2F196%2F0%2F10264507%2Fil_fullxfull.1223252990_1lii.jpg" /><h1>GoAti</h1><p>Funky Little Gift Shop </p></article>
 
 ---------
 
@@ -45,3 +38,5 @@ _type: MediaObject
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58a0d04a5d2151f6feae4f8cc5406b3ad34a4d13.jpg" /><h1>fully fuller</h1><p>Speaking as a filmmaker, he seems to be describing the process of establishing with the audience a rapport based on the film's ability to work on it's own terms, telling the story it's own organic way without apology, and having that tone be understood and accepted.</p></article>
 
 ---------
+
+<article style=""><h1>GoAti</h1></article>
