@@ -1,12 +1,12 @@
 ---
 app_links: []
-datePublished: '2017-08-20T16:03:28.615Z'
+datePublished: '2017-08-20T16:04:30.001Z'
 description: ———
 via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-08-20T16:03:28.111Z'
+dateModified: '2017-08-20T16:04:29.291Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
 title: 'Featured Sites:'
@@ -39,4 +39,4 @@ _type: MediaObject
 
 ---------
 
-<article style=""><h1>GoAti</h1></article>
+<article style=""><h1>GoAti</h1><p>Funky Little Gift Shop</p></article>
