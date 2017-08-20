@@ -4,9 +4,9 @@
         <description><![CDATA[GridTalk]]></description>
         <link>https://thegrid.ai/gridtalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Aug 2017 15:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2017 15:55:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridtalk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Aug 2017 15:55:12 GMT</pubDate>
+        <pubDate>Sun, 20 Aug 2017 15:55:54 GMT</pubDate>
         <item>
             <title><![CDATA[Welcome! | GridTalk]]></title>
             <description><![CDATA[<article><h1>Welcome! | GridTalk</h1><p>This forum was created to help users and discuss the Grid Platform! What we do is try to answer any questions you might have regarding the platform. As a community we try to work around any</p></article>]]></description>
@@ -29,11 +29,11 @@
             <pubDate>Thu, 10 Aug 2017 22:32:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Issue #6 | GridTalk]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1561771-3e84-4bb5-acc4-0717c54d6cd5.png">,<article><h1>Issue #6 | GridTalk</h1><p>Hey all, We hope you&apos;re having a great week, and to make it even better, we&apos;ve packed a bunch of delightful goods for you this week. For starters, feast your eyes on aesthetically designed</p></article>]]></description>
-            <link>http://gridtalk.info/post/2141</link>
-            <guid isPermaLink="false">c274cd8d-e5f8-45c9-8eb8-1638d20a22e0</guid>
-            <pubDate>Thu, 10 Aug 2017 20:06:59 GMT</pubDate>
+            <title><![CDATA[Issue #7 | GridTalk]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19f4276-805d-4d16-9dcf-b2b4cef5ce4f.png">,<article><h1>Issue #7 | GridTalk</h1><p>Hey all, We&apos;ve prepared your weekly dose of inspiring design resources to empower your craft. Last week Facebook launched their TV app, Watch, and acquired a German start up for their AR platform.</p></article>]]></description>
+            <link>http://gridtalk.info/post/2148</link>
+            <guid isPermaLink="false">1773cd25-a9c6-4837-b1bd-fdbfc8bcdeb2</guid>
+            <pubDate>Sun, 20 Aug 2017 15:55:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Join Us | Slack]]></title>
@@ -41,6 +41,13 @@
             <link>https://join.slack.com/t/gridtalkinfo/shared_invite/MjE3Nzc2NTU1MzY3LTE1MDA4ODg4NjAtMjlmOTZlZjc3NQ</link>
             <guid isPermaLink="false">c99ca69b-b27c-4de8-8c8d-59534b130557</guid>
             <pubDate>Thu, 10 Aug 2017 20:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Issue #6 | GridTalk]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1561771-3e84-4bb5-acc4-0717c54d6cd5.png">,<article><h1>Issue #6 | GridTalk</h1><p>Hey all, We hope you&apos;re having a great week, and to make it even better, we&apos;ve packed a bunch of delightful goods for you this week. For starters, feast your eyes on aesthetically designed</p></article>]]></description>
+            <link>http://gridtalk.info/post/2141</link>
+            <guid isPermaLink="false">c274cd8d-e5f8-45c9-8eb8-1638d20a22e0</guid>
+            <pubDate>Thu, 10 Aug 2017 20:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Issue #5 | GridTalk]]></title>
@@ -69,13 +76,6 @@
             <link>http://gridtalk.info/thread/261/issue-3</link>
             <guid isPermaLink="false">729b9b34-5eb9-4fb7-8003-ba4bb2f43c07</guid>
             <pubDate>Sun, 23 Jul 2017 16:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gallery and comments | GridTalk]]></title>
-            <description><![CDATA[<article><h1>Gallery and comments | GridTalk</h1><p>Ok this site is a mockup.. set up for @katydid https://thegrid.ai/mygallery The first post is basically 10 images one after another.. nothing else.. just 10 images.. you can edit the images</p></article>]]></description>
-            <link>http://gridtalk.info/thread/257/gallery-comments</link>
-            <guid isPermaLink="false">08d27173-8656-497d-bc48-8d8ece38c4e6</guid>
-            <pubDate>Tue, 18 Jul 2017 13:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
