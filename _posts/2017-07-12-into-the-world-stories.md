@@ -1,12 +1,17 @@
 ---
 app_links: []
-datePublished: '2017-08-20T15:55:44.172Z'
+datePublished: '2017-08-20T16:02:07.083Z'
 description: ———
 via: {}
 keywords: []
 inFeed: false
-publisher: {}
-dateModified: '2017-08-20T15:55:43.578Z'
+publisher:
+  url: 'http://goati.info'
+  name: Goati
+  favicon: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d692ae-ff4b-41f6-a982-f831247e75e0.png
+  domain: goati.info
+dateModified: '2017-08-20T16:02:06.488Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
 title: 'Featured Sites:'
@@ -20,6 +25,10 @@ _type: MediaObject
 
 ---
 # Featured Sites:
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9c9e2477f7427d2b77ecb413aa4dff00/noop.jpg?input=https%3A%2F%2Fimg0.etsystatic.com%2F196%2F0%2F10264507%2Fil_fullxfull.1223252990_1lii.jpg" /><h1>GoAti</h1><p>Funky Little Gift Shop </p></article>
+
+---------
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d393d158a4b80dc955597e596a6871b54e484b45.jpg" /><h1>Jon Adaskin</h1><p>I’ve been working in photography for 25+ years. As a boy I would go out photographing with my father who was a painter. He would use the photographs to paint his works. I learned how to use a camera from these early experiences, later, becoming very comfortable in many situations. Now, I specializes in (but not limited to) the fine art of Large Format Wetplate Collodion Photography.</p></article>
 
