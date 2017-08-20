@@ -1,12 +1,12 @@
 ---
 app_links: []
-datePublished: '2017-08-20T16:04:58.528Z'
+datePublished: '2017-08-20T16:07:35.739Z'
 description: ———
 via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-08-20T16:04:58.013Z'
+dateModified: '2017-08-20T16:07:35.230Z'
 related: []
 sourcePath: _posts/2017-07-12-into-the-world-stories.md
 title: 'Featured Sites:'
@@ -38,5 +38,3 @@ _type: MediaObject
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58a0d04a5d2151f6feae4f8cc5406b3ad34a4d13.jpg" /><h1>fully fuller</h1><p>Speaking as a filmmaker, he seems to be describing the process of establishing with the audience a rapport based on the film's ability to work on it's own terms, telling the story it's own organic way without apology, and having that tone be understood and accepted.</p></article>
 
 ---------
-
-<article style=""><h1>GoAti</h1><p>Funky Little Gift Shop</p></article>
