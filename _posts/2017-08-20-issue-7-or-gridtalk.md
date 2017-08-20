@@ -37,13 +37,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/post/2148'
 title: ''
-datePublished: '2017-08-20T15:55:11.950Z'
-dateModified: '2017-08-20T15:55:11.511Z'
+datePublished: '2017-08-20T15:55:44.152Z'
+dateModified: '2017-08-20T15:55:43.578Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-08-20-issue-7-or-gridtalk.md
 starred: false
 datePublishedOriginal: '2017-08-20T15:55:11.950Z'
-sourcePath: _posts/2017-08-20-issue-7-or-gridtalk.md
 _context: 'http://schema.org'
 _type: MediaObject
 
