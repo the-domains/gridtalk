@@ -51,13 +51,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dN2xQUA275s'
 title: Jeff Woods Live Stream
-datePublished: '2017-08-28T19:07:39.397Z'
-dateModified: '2017-08-28T19:06:50.671Z'
-datePublishedOriginal: '2017-08-28T19:07:39.397Z'
+datePublished: '2017-08-28T19:11:53.570Z'
+dateModified: '2017-08-28T19:11:52.908Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-08-28-jeff-woods-live-stream.md
+starred: false
+datePublishedOriginal: '2017-08-28T19:07:39.397Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
