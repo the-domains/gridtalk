@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: V3 Alpha roll out has begun!
-dateModified: '2017-10-07T15:05:13.242Z'
-datePublished: '2017-10-07T15:05:14.059Z'
+dateModified: '2017-10-07T15:07:01.960Z'
+datePublished: '2017-10-07T15:07:03.198Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-07-v3-alpha-roll-out-has-begun.md
 starred: false
 datePublishedOriginal: '2017-10-07T15:05:14.059Z'
-sourcePath: _posts/2017-10-07-v3-alpha-roll-out-has-begun.md
 _type: Blurb
 
 ---
