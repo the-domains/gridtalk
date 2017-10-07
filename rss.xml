@@ -4,9 +4,9 @@
         <description><![CDATA[GridTalk]]></description>
         <link>https://thegrid.ai/gridtalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Aug 2017 23:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2017 15:07:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridtalk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 31 Aug 2017 23:53:46 GMT</pubDate>
+        <pubDate>Sat, 07 Oct 2017 15:07:13 GMT</pubDate>
         <item>
             <title><![CDATA[Welcome! | GridTalk]]></title>
             <description><![CDATA[<article><h1>Welcome! | GridTalk</h1><p>This forum was created to help users and discuss the Grid Platform! What we do is try to answer any questions you might have regarding the platform. As a community we try to work around any</p></article>]]></description>
@@ -69,6 +69,13 @@
             <link>https://www.youtube.com/watch?v=dN2xQUA275s</link>
             <guid isPermaLink="false">de84efc7-b07c-405c-8199-b7e6d088c401</guid>
             <pubDate>Mon, 28 Aug 2017 19:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Issue #3 | GridTalk]]></title>
+            <description><![CDATA[<article><h1>Issue #3 | GridTalk</h1><p>Hey all, This week, we&apos;ll share with you some amazing articles on innovation and cutting-edge technology. First on the list is the RPG-like 360&deg; interactive film, then we have an article about</p></article>]]></description>
+            <link>http://gridtalk.info/thread/261/issue-3</link>
+            <guid isPermaLink="false">729b9b34-5eb9-4fb7-8003-ba4bb2f43c07</guid>
+            <pubDate>Sun, 23 Jul 2017 16:10:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
