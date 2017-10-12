@@ -4,9 +4,9 @@
         <description><![CDATA[GridTalk]]></description>
         <link>https://thegrid.ai/gridtalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Oct 2017 18:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2017 18:18:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridtalk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Oct 2017 18:16:44 GMT</pubDate>
+        <pubDate>Thu, 12 Oct 2017 18:18:16 GMT</pubDate>
         <item>
             <title><![CDATA[Welcome! | GridTalk]]></title>
             <description><![CDATA[<article><h1>Welcome! | GridTalk</h1><p>This forum was created to help users and discuss the Grid Platform! What we do is try to answer any questions you might have regarding the platform. As a community we try to work around any</p></article>]]></description>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/gridtalk/into-the-world-stories</link>
             <guid isPermaLink="false">552c25ab-49aa-475c-a801-c9b043d9d0ac</guid>
             <pubDate>Sun, 23 Jul 2017 16:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The all-new V3, 30 days/30 characters challenge, Meet Vincent - the next Michelangelo]]></title>
+            <description><![CDATA[<article><h1>The all-new V3, 30 days/30 characters challenge, Meet Vincent - the next Michelangelo</h1><p>Hey all, I hope you&apos;re enjoying the concepts and ideas we&apos;re sharing with you in the newsletter as much as we enjoy compiling it. We continue to delight in seeing the creativity and innovation embodied in new Gridsites created by our members thegrid.ai/site-of-sites/ , thanks to our great supporters at GridTalk Forum for creating this site.</p><img src="https://gallery.mailchimp.com/d160a2c823e9efe5940e1fdcc/images/d9c10e7a-85d7-4c88-8cf5-213244234855.png"></article>]]></description>
+            <link>http://mailchi.mp/thegrid/the-all-new-v3-30-days30-characters-challenge-meet-vincent-the-next-michelangelo?e=25bf84ab6a</link>
+            <guid isPermaLink="false">6b135610-f39c-4b8c-b94e-5837e00e5ef1</guid>
+            <pubDate>Thu, 12 Oct 2017 18:16:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lifetime Members Webinar #3]]></title>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=dN2xQUA275s</link>
             <guid isPermaLink="false">de84efc7-b07c-405c-8199-b7e6d088c401</guid>
             <pubDate>Mon, 28 Aug 2017 19:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Issue #3 | GridTalk]]></title>
-            <description><![CDATA[<article><h1>Issue #3 | GridTalk</h1><p>Hey all, This week, we&apos;ll share with you some amazing articles on innovation and cutting-edge technology. First on the list is the RPG-like 360&deg; interactive film, then we have an article about</p></article>]]></description>
-            <link>http://gridtalk.info/thread/261/issue-3</link>
-            <guid isPermaLink="false">729b9b34-5eb9-4fb7-8003-ba4bb2f43c07</guid>
-            <pubDate>Sun, 23 Jul 2017 16:10:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
