@@ -19,13 +19,13 @@ isBasedOnUrl: >-
 title: >-
   The all-new V3, 30 days/30 characters challenge, Meet Vincent - the next
   Michelangelo
-datePublished: '2017-10-12T18:16:43.231Z'
-dateModified: '2017-10-12T18:15:51.044Z'
-datePublishedOriginal: '2017-10-12T18:16:43.231Z'
+datePublished: '2017-10-12T18:18:06.762Z'
+dateModified: '2017-10-12T18:18:05.473Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-12-the-all-new-v3-30-days30-characters-challenge-meet-vincen.md
+starred: false
+datePublishedOriginal: '2017-10-12T18:16:43.231Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
