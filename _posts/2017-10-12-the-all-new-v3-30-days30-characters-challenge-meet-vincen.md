@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   http://mailchi.mp/thegrid/the-all-new-v3-30-days30-characters-challenge-meet-vincent-the-next-michelangelo?e=25bf84ab6a
 title: ''
-datePublished: '2017-10-12T18:19:56.740Z'
-dateModified: '2017-10-12T18:19:56.325Z'
+datePublished: '2017-10-13T20:21:11.037Z'
+dateModified: '2017-10-13T20:21:09.632Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-12-the-all-new-v3-30-days30-characters-challenge-meet-vincen.md
