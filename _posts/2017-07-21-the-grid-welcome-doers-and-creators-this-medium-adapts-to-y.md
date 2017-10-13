@@ -7,8 +7,8 @@ description: Get started on The Grid
 app_links: []
 isBasedOnUrl: 'https://thegrid.io/#21820'
 title: Get Started on The Grid!
-datePublished: '2017-10-12T18:18:06.780Z'
-dateModified: '2017-10-12T18:18:05.473Z'
+datePublished: '2017-10-13T20:21:11.226Z'
+dateModified: '2017-10-13T20:21:09.632Z'
 via: {}
 inFeed: true
 sourcePath: >-
