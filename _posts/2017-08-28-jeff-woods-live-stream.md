@@ -51,8 +51,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dN2xQUA275s'
 title: Jeff Woods Live Stream
-datePublished: '2017-10-12T18:18:06.775Z'
-dateModified: '2017-10-12T18:18:05.473Z'
+datePublished: '2017-10-13T20:21:11.160Z'
+dateModified: '2017-10-13T20:21:09.632Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-28-jeff-woods-live-stream.md
