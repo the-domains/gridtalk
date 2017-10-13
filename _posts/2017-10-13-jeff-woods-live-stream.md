@@ -11,7 +11,7 @@ publisher:
   domain: www.youtube.com
 keywords:
   - ''
-description: Uploaded by Jeff Woods on 2017-08-28.
+description: October 13th 2017
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=YyqhcrJ8cio&feature=applinks'
     type: ios
@@ -50,14 +50,14 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YyqhcrJ8cio'
-title: Jeff Woods Live Stream
-datePublished: '2017-10-13T20:19:19.927Z'
-dateModified: '2017-10-13T20:18:14.392Z'
-datePublishedOriginal: '2017-10-13T20:19:19.927Z'
+title: Grid Webinar
+datePublished: '2017-10-13T20:21:02.736Z'
+dateModified: '2017-10-13T20:21:01.906Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-13-jeff-woods-live-stream.md
+starred: false
+datePublishedOriginal: '2017-10-13T20:19:19.927Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
