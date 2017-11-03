@@ -44,8 +44,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/thread/257/gallery-comments'
 title: Gallery and comments | GridTalk
-datePublished: '2017-11-03T19:31:33.080Z'
-dateModified: '2017-11-03T19:31:31.621Z'
+datePublished: '2017-11-03T19:41:27.719Z'
+dateModified: '2017-11-03T19:41:26.067Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-18-gallery-and-comments-or-gridtalk.md
