@@ -43,11 +43,11 @@ publisher:
   favicon: 'http://storage.proboards.com/6362750/images/LWDoVTsUqYVwkXMNmswQ.ico'
   url: 'http://gridtalk.info'
   domain: gridtalk.info
-dateModified: '2017-10-13T20:21:09.632Z'
+dateModified: '2017-11-03T19:29:08.668Z'
 related: []
 title: 'Issue #2 | GridTalk'
 author: []
-datePublished: '2017-10-13T20:21:11.112Z'
+datePublished: '2017-11-03T19:29:09.572Z'
 sourcePath: _posts/2017-07-18-issue-2-or-gridtalk.md
 starred: false
 datePublishedOriginal: '2017-07-18T13:36:02.467Z'
