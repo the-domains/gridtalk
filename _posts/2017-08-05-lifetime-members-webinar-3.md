@@ -51,8 +51,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/0oCFB-igYsE'
 title: 'Lifetime Members Webinar #3'
-datePublished: '2017-10-13T20:21:11.035Z'
-dateModified: '2017-10-13T20:21:09.632Z'
+datePublished: '2017-11-03T19:29:09.513Z'
+dateModified: '2017-11-03T19:29:08.668Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-05-lifetime-members-webinar-3.md
