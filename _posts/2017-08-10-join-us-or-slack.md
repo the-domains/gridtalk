@@ -8,8 +8,8 @@ app_links: []
 isBasedOnUrl: >-
   https://join.slack.com/t/gridtalkinfo/shared_invite/MjE3Nzc2NTU1MzY3LTE1MDA4ODg4NjAtMjlmOTZlZjc3NQ
 title: ''
-datePublished: '2017-10-13T20:21:11.145Z'
-dateModified: '2017-10-13T20:21:09.632Z'
+datePublished: '2017-11-03T19:29:09.599Z'
+dateModified: '2017-11-03T19:29:08.668Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-10-join-us-or-slack.md
