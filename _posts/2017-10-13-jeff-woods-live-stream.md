@@ -51,8 +51,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YyqhcrJ8cio'
 title: Grid Webinar
-datePublished: '2017-11-03T19:31:33.038Z'
-dateModified: '2017-11-03T19:31:31.621Z'
+datePublished: '2017-11-03T19:41:27.691Z'
+dateModified: '2017-11-03T19:41:26.067Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-13-jeff-woods-live-stream.md
