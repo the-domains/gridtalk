@@ -41,13 +41,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/thread/312/webinar-friday-novemer-3rd'
 title: Webinar Friday Novemer 3rd | GridTalk
-datePublished: '2017-11-03T19:28:43.758Z'
-dateModified: '2017-11-03T19:28:43.331Z'
+datePublished: '2017-11-03T19:29:09.514Z'
+dateModified: '2017-11-03T19:29:08.668Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-11-03-webinar-friday-novemer-3rd-or-gridtalk.md
 starred: false
 datePublishedOriginal: '2017-11-03T19:28:43.758Z'
-sourcePath: _posts/2017-11-03-webinar-friday-novemer-3rd-or-gridtalk.md
 _context: 'http://schema.org'
 _type: MediaObject
 
