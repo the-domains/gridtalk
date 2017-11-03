@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: V3 Alpha roll out has begun!
-dateModified: '2017-11-03T19:29:08.668Z'
-datePublished: '2017-11-03T19:29:09.467Z'
+dateModified: '2017-11-03T19:31:31.621Z'
+datePublished: '2017-11-03T19:31:33.060Z'
 title: ''
 author: []
 publisher: {}
