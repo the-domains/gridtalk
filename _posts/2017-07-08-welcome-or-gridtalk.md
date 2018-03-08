@@ -44,8 +44,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://gridtalk.info/thread/241/welcome'
 title: Welcome! | GridTalk
-datePublished: '2018-03-08T15:31:36.026Z'
-dateModified: '2018-03-08T15:31:34.988Z'
+datePublished: '2018-03-08T16:49:55.494Z'
+dateModified: '2018-03-08T16:49:53.719Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-08-welcome-or-gridtalk.md
@@ -57,4 +57,4 @@ _type: MediaObject
 ---
 <article style=""><h1>Welcome! | GridTalk</h1><p>This forum was created to help users and discuss the Grid Platform! What we do is try to answer any questions you might have regarding the platform. As a community we try to work around any</p></article>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdjTFOxTAQRHtOMfzG0CQ9JGlpKRDUxl5i8xPb7K4T5QrU9FyRI5D_QUKiGs1o5k0njmNRCLveBNUiN23rsqeGSUpOEhdacnTUZB7b_9mrmKFrfxDDRRdTqYqc3BTdsTd_7cdzWwrZ49XhIUTBS-Y6Y7UCx2SVPDQj0FRQhVhgk4eP4qoINBDuOHrcT1b34XyJp2AVK8Fn7DDl7TS3SVbiXTa8VRKN-zm2XDHHMSiCXQhMo2Uf03imll9gc7i-NdCtUG-eq2pOBoud6m6_Pj_eT8ebQTt8Aw8ebm0" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdjTFOxTAQRHtOMfzG0CQ9JGlpKRDUxl5i8xPb7K4T5QrU9FyRI5D_QUKiGs1o5k0njmNRCLveBNUiN23rsqeGSUpOEhdacnTUZB7b_9mrmKFrfxDDRRdTqYqc3BTdsTd_7cdzWwrZ49XhIUTBS-Y6Y7UCx2SVPDQj0FRQhVhgk4eP4qoINBDuOHrcT1b34XyJp2AVK8Fn7DDl7TS3SVbiXTa8VRKN-zm2XDHHMSiCXQhMo2Uf03imll9gc7i-NdCtUG-eq2pOBoud6m6_Pj_eT8ebQTt8Aw8ebm0" height="40" style=""></iframe>
